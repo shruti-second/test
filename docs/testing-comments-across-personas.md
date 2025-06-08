@@ -1,7 +1,7 @@
-# This is a test for a comment
+# This is a test for comments
 
 let us comment
 
 
-let us add comment
+This is not right
 
